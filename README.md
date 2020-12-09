@@ -1,5 +1,5 @@
 # Flutter Facebook Responsive UI
 
-![Web Screenshot](screenshots/facebook-web.png) 
+![Web Screenshot](screenshots/fb-web.png) 
 
-![Mobile Screenshot](screenshots/facebook-mobile.png)
+![Mobile Screenshot](screenshots/fb-mobile.png)
